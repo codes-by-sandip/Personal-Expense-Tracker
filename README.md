@@ -47,3 +47,25 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+---
+---
+
+## 👨‍💻 Author
+
+**Sandip Kundu**  
+🎓 Final Year Computer Science Student | AI & ML Enthusiast  
+
+🌐 GitHub: [codes-by-sandip](https://github.com/codes-by-sandip)  
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+
+---
+
+## 🌟 Support
+
+If you like this project, **give it a star ⭐** on GitHub!  
+Contributions, issues, and feature requests are welcome.  
