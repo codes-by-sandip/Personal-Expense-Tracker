@@ -20,9 +20,30 @@ A **Streamlit-based personal expense tracking application** designed to help you
 
 Follow these steps to set up and run the app on your local machine.
 
-### 1️⃣ Create a Virtual Environment
+### 1. Create a Virtual Environment
 It’s recommended to use a virtual environment for dependency management.
 
 ```bash
 python -m venv .venv
+```
+### 2. Activate the virtual environment
+#### On Windows (PowerShell):
+```bash
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+.venv\Scripts\Activate.ps1
+```
+#### On Linux / macOS:
+```bash
+source .venv/bin/activate
+```
+### 3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+---
+
+## ▶️ Run the AP
+#### Start the application with:
+```bash
+streamlit run app.py
 ```
