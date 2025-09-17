@@ -1,0 +1,10 @@
+""" CREATING A VIRTUAL ENVIRONMENT """ (Once)
+
+python -m venv .venv
+
+
+
+""" ACTIVATE THE VIRTUAL ENVIRONMENT """ (Time to Activate)
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+.venv\Scripts\Activate.ps1
